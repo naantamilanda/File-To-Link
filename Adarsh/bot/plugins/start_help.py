@@ -56,7 +56,7 @@ async def start(b, m):
                     disable_web_page_preview=True)
                 return
         await m.reply_photo(
-            photo="https://graph.org/file/8e67ae4a3803f69a28218.jpg",
+            photo="https://telegra.ph/file/e841c71197f6b7e66d121.jpg",
             caption="**ʜɪ ɴᴀɴʙᴀ ᴀɴᴅ ɴᴀɴʙɪ ɪᴍ 『 𝕃𝕖𝕠 𝕋ℙℍ 𝔽𝕚𝕝𝕖 𝕋𝕠 𝕃𝕚𝕟𝕜 』Bʏ @tamilpredvdhub ★彡Bʟᴏᴏᴅʏ sᴡᴇᴇᴛ Lᴇᴏ, Lᴇᴏ, Lᴇᴏ★彡**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
